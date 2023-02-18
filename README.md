@@ -34,7 +34,7 @@ npm run build
 ## Recommended Defaults
 Refer to the Figma file for the spacings tokens cheatsheet.
 
-[Get a Figma copy](https://www.figma.com/community/file/1179503548902179413)
+[Get a Figma copy]()
 
 ## Usage Guide
 
