@@ -1,7 +1,5 @@
 # New UI Spacing Blocks
 
-![](assets/cover.png)
-
 ## Install
 Install New UI Spacings from your terminal via npm.
 
