@@ -16,14 +16,13 @@
     "url": "git+https://github.com/NewDesignFile/spacings.git"
   },
   "keywords": [
-    "colors",
-    "color-palette",
+    "spacings",
+    "spacing-blocks",
     "themes",
     "tokens",
     "tokens-translation",
     "design-tokens",
-    "design-system",
-    "color-system"
+    "design-system"
   ],
   "author": "Abhimanyu Rana",
   "license": "MIT",
