@@ -1,0 +1,39 @@
+{
+  "name": "@new-ui/spacings",
+  "version": "1.0.0",
+  "description": "Spacing Blocks",
+  "source": "src/index.scss",
+  "main": "dist/index.css",
+  "targets": {
+    "main": false
+  },
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewDesignFile/spacings.git"
+  },
+  "keywords": [
+    "colors",
+    "color-palette",
+    "themes",
+    "tokens",
+    "tokens-translation",
+    "design-tokens",
+    "design-system",
+    "color-system"
+  ],
+  "author": "Abhimanyu Rana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NewDesignFile/colors/issues"
+  },
+  "homepage": "https://github.com/NewDesignFile/colors#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "autoprefixer": "^10.4.13",
+    "parcel": "^2.8.3"
+  }
+}
