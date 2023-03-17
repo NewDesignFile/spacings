@@ -1,6 +1,6 @@
 {
   "name": "@new-ui/spacings",
-  "version": "1.0.4",
+  "version": "0.1",
   "description": "Spacing Blocks",
   "source": "src/index.scss",
   "main": "dist/index.css",
