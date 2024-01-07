@@ -1,4 +1,4 @@
-# New UI Spacing Blocks
+# New UI Spacings
 
 ## Install
 Install New UI Spacings from your terminal via npm.
