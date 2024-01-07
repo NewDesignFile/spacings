@@ -22,6 +22,6 @@ To get started quickly, you can use the CDN files.
 @import '@new-ui/spacings';
 ```
 
-## Recommended Defaults
+## Guides
 - [Get a Figma copy](https://www.figma.com/community/file/1325646289622213496/new-ui)
-- [Getting started with New UI spacings](https://new-ui.com/docs/foundations/spacings)
+- [Read our spacings guide](https://new-ui.com/docs/foundations/spacings)
