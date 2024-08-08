@@ -31,9 +31,9 @@
   },
   "homepage": "https://github.com/NewDesignFile/spacings#readme",
   "devDependencies": {
-    "@parcel/transformer-css": "^2.11.0",
-    "@parcel/transformer-sass": "^2.11.0",
-    "autoprefixer": "^10.4.16",
-    "parcel": "^2.11.0"
+    "@parcel/transformer-css": "^2.12.0",
+    "@parcel/transformer-sass": "^2.12.0",
+    "autoprefixer": "^10.4.20",
+    "parcel": "^2.12.0"
   }
 }
